@@ -1,0 +1,10 @@
+.lista{
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-left: 24px;
+    margin-right: 24px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+}
